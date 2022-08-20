@@ -1,16 +1,26 @@
-### Hi there 👋
+## Olá, meu nome é Moisés Junior 👋
 
-<!--
-**MoisesAMJunior/MoisesAMJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me visite nas redes sociais 👇
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesamjunior/)
 
-Here are some ideas to get you started:
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/MoisesAMJunior)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MoisesAMJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesamjunior&show_icons=true&theme=dracula)
+
+<br/>
+
+### Apreendendo...
+<div stryle="display: inline_block"><br/>
+    <img align alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div></br>
+
+
+### Ferramentas que utilizo no dia a dia 👇
+<div stryle="display: inline_block"><br/>
+    <img align alt="Python" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div>
+<div stryle="display: inline_block"><br/>
+    <img align alt="Python" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+</div>
+
+
