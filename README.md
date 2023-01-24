@@ -1,26 +1,16 @@
-## Olá, meu nome é Moisés Junior 👋
-
-### Me visite nas redes sociais 👇
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesamjunior/)
-
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/MoisesAMJunior)
-
-![MoisesAMJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesamjunior&show_icons=true&theme=dracula)
-
+## Moisés Júnior
+<hr/>
+Olá, tenho 33 anos e moro em São Paulo.<br/>
+Gosto de arte e tecnologia e acredito que na medida do possível, os dois devem caminhar juntos.🙏🤝
 <br/>
-
-### Apreendendo...
-<div stryle="display: inline_block"><br/>
-    <img align alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div></br>
-
+Atualmente, estou aprofundando os estudos na linguagem Python para trabalhar com projetos de Ciência de Dados. 
 
 ### Ferramentas que utilizo no dia a dia 👇
 <div stryle="display: inline_block"><br/>
-    <img align alt="Python" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img align alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
 <div stryle="display: inline_block"><br/>
-    <img align alt="Python" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+    <img align alt="Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
 </div>
 
 
