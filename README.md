@@ -13,7 +13,7 @@ Atualmente, estou aprofundando os estudos na linguagem Python para trabalhar com
     <img align alt="Power BI" src="https://img.shields.io/badge/power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black">
 </div>
 
-# Linguagens que estou aprendendo 👇
+### Linguagens que estou aprendendo 👇
 <div stryle="display: inline_block"><br/>
     <img align alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
     <img align alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
