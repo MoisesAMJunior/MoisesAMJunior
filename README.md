@@ -27,22 +27,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 
 \---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=MoisesAMJunior&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAMJunior&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoisesAMJunior&theme=tokyo-night)](https://github.com/MoisesAMJunior)
 \---
 
 * 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/moisesamjunior)
