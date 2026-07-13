@@ -26,7 +26,7 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 * **Próximos Passos (Java):** Dedicando tempo para aprender os conceitos de orientação a objetos, estrutura de dados e desenvolvimento back-end com **Java**.
 
 
-* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/moisesamjunior)
+* 💼 **LinkedIn:** [linkedin.com/in/moisesamjunior](https://linkedin.com/in/moisesamjunior)
 
 \---
 
