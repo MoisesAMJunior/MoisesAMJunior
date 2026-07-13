@@ -1,22 +1,46 @@
-## Moisés Júnior
-<hr/>
-Olá! Gosto de arte e tecnologia e acredito que na medida do possível, os dois devem caminhar juntos.🤝
-<br/>
-Atualmente, estou aprofundando os estudos na linguagem Python para trabalhar com projetos de Ciência de Dados. 
+# 👋 Olá!
 
-### Ferramentas que utilizo no dia a dia 👇
-<div stryle="display: inline_block"><br/>
-    <img align alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></br>
-    <img align alt="Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"></br>
-    <img align alt="Pandas" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas"></br>
-    <img align alt="Polars" src="https://img.shields.io/badge/-Polars-CD792C?style=flat&logo=polars&logoColor=white%22"></br>
-    <img align alt="Power BI" src="https://img.shields.io/badge/power-bi-yellow?logoColor=yellow&labelColor=yellow&color=black">
-</div>
 
-### Linguagens que estou aprendendo 👇
-<div stryle="display: inline_block"><br/>
-    <img align alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
-    <img align alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</div>
 
+### 🚀 Desenvolvedor \& Analista de Dados em Evolução
+
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, solução de problemas e por transformar dados e ideias em aplicações reais. Atualmente, estou focado em expandir minhas habilidades de desenvolvimento de software e explorar o ecossistema de dados.
+
+\---
+
+### 🛠️ Tecnologias \& Ferramentas
+
+Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiçoando:
+
+* **Análise de Dados:** Python (Pandas, NumPy)
+* **Desenvolvimento Web:** JavaScript, HTML5, CSS3
+* **Estudando Atualmente:** Java ☕
+* **Ferramentas:** Git, GitHub, VS Code
+
+\---
+
+### 🎨 Meus Projetos \& Foco Atual
+
+* **Projetos Web (Frontend):** Repositórios práticos desenvolvidos com **JavaScript** e **HTML/CSS**, focando em lógica de programação, interatividade e interfaces limpas.
+* **Análise de Dados com Python:** Possuo experiência na manipulação, limpeza e análise exploratória de dados utilizando Python. *(Os projetos nesta área serão publicados em breve por aqui!)*
+* **Próximos Passos (Java):** Dedicando tempo para aprender os conceitos de orientação a objetos, estrutura de dados e desenvolvimento back-end com **Java**.
+
+\---
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU\_USUARIO\_AQUI\&show\_icons=true\&theme=radical\&include\_all\_commits=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU\_USUARIO\_AQUI\&layout=compact\&theme=radical" alt="Linguagens mais usadas" height="150">
+</p>
+
+\---
+
+* 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/moisesamjunior)
+
+\---
+
+<p align="center">
+  <i>"O aprendizado contínuo é a chave para a evolução."</i>
+</p>
 
