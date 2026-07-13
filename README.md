@@ -27,11 +27,20 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 
 \---
 
-### 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoisesAMJunior&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAMJunior&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150">
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=MoisesAMJunior&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesAMJunior&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 \---
