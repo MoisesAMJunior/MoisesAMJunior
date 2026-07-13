@@ -25,10 +25,6 @@ Aqui estão as principais tecnologias com as quais trabalho e venho me aperfeiç
 * **Análise de Dados com Python:** Possuo experiência na manipulação, limpeza e análise exploratória de dados utilizando Python. *(Os projetos nesta área serão publicados em breve por aqui!)*
 * **Próximos Passos (Java):** Dedicando tempo para aprender os conceitos de orientação a objetos, estrutura de dados e desenvolvimento back-end com **Java**.
 
-\---
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MoisesAMJunior&theme=tokyo-night)](https://github.com/MoisesAMJunior)
-\---
 
 * 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/moisesamjunior)
 
